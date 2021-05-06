@@ -4,7 +4,7 @@ gd-text
 ### Installation via Composer:
 
 ```bash
-composer require sennamint/gd-text
+composer require sennamint/gd-text:"dev-sennamint-master"
 ```
 
 ### Basic usage example
