@@ -64,7 +64,7 @@ class Box
     /**
      * @var bool
      */
-    protected $debug = false;
+    protected $debug = true;
 
     /**
      * @var bool|array
